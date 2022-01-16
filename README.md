@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LuckyCurve
 - 👀 I’m interested in Netty, Reactor, Guava, in my lify i'm interested in handmake, DIY, keyboard, reading, hacking
 - 🌱 I’m currently learning in Java world how to build high performance software
+- 🎆 I'm a prospective Java development engineer in Tencent
 - 📫 contact info: luckycurvec@gmail.com
 
 <!---
